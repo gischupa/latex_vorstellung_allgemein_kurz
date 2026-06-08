@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "index.html#verlage",
+    "href": "index.html#verlage",
+    "title": "LaTeX",
+    "section": "Verlage",
+    "text": "Verlage\n\nZerlegen und analysieren docx-Dateien, odt-Dateien, …\nBauen den Text neu auf\nWenden Layout an"
+  },
+  {
+    "objectID": "index.html#wo-ist-latex-anstrengend",
+    "href": "index.html#wo-ist-latex-anstrengend",
+    "title": "LaTeX",
+    "section": "Wo ist LaTeX anstrengend?",
+    "text": "Wo ist LaTeX anstrengend?\n\nSteile Lernkurve - Konzept kapieren\nNicht jeder Blödsinn möglich\nMan kann LaTeX-Fehler machen, nicht nur Rechtschreibfehler\nDie Rechtschreibprüfung, … ist in Word besser\nMan lernt nie aus …"
+  },
+  {
+    "objectID": "index.html#ursprünglich",
+    "href": "index.html#ursprünglich",
+    "title": "LaTeX",
+    "section": "Ursprünglich",
+    "text": "Ursprünglich"
+  },
+  {
+    "objectID": "index.html#heute",
+    "href": "index.html#heute",
+    "title": "LaTeX",
+    "section": "Heute",
+    "text": "Heute"
+  },
+  {
+    "objectID": "index.html#ablauf-mit-latex",
+    "href": "index.html#ablauf-mit-latex",
+    "title": "LaTeX",
+    "section": "Ablauf mit LaTeX",
+    "text": "Ablauf mit LaTeX"
+  },
+  {
+    "objectID": "index.html#zitieren-ganz-einfach-überblick",
+    "href": "index.html#zitieren-ganz-einfach-überblick",
+    "title": "LaTeX",
+    "section": "Zitieren ganz einfach – Überblick",
+    "text": "Zitieren ganz einfach – Überblick\n\nBuch finden\nEintrag in die Datenbank erstellen\nQuellennachweis im Text erstellen\nDen Rest macht LaTeX"
+  },
+  {
+    "objectID": "index.html#zitieren-ganz-einfach-details",
+    "href": "index.html#zitieren-ganz-einfach-details",
+    "title": "LaTeX",
+    "section": "Zitieren ganz einfach – Details",
+    "text": "Zitieren ganz einfach – Details\nBuch finden\n\n\n\nJa\n\n\n\nFür das Buch Let’s Code Python von Hauke Fehr\nkannst du folgenden BibTeX-Eintrag verwenden\n(basierend auf der 4. Auflage von 2022)\n\n\n@book{fehr2022,   &lt;&lt;&lt;&lt; DAS ist der Zitierschlüssel\n  author    = {Hauke Fehr},\n  title     = {Let's Code Python},\n  subtitle  = {Programmieren lernen mit Python und vielen Projekten},\n  edition   = {4},\n  year      = {2022},\n  publisher = {Rheinwerk Verlag},\n  address   = {Bonn},\n  isbn      = {978-3-8362-6514-0}\n}"
+  },
+  {
+    "objectID": "index.html#im-dokument",
+    "href": "index.html#im-dokument",
+    "title": "LaTeX",
+    "section": "Im Dokument",
+    "text": "Im Dokument\nIm Unterricht verwenden wir das Buch von Hauke Fehr „Let's Code  \nPython“\\footcite{fehr2022}. Beachte besonders das Kapitel über \nGrundlagen\\footcite[vgl.][42-55]{fehr2022}\n\nDen gesamten Rest – Fußnote + Quellenverzeichnis macht LaTeX automatisch richtig nach Voreinstellung."
+  },
+  {
+    "objectID": "index.html#tabellen-und-diagramme",
+    "href": "index.html#tabellen-und-diagramme",
+    "title": "LaTeX",
+    "section": "Tabellen und Diagramme",
+    "text": "Tabellen und Diagramme\nDas für euch komplexestes Thema – auch hier KI hilfreich.\nThema für eigenen Workshop."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index_ideen.html#klassisch",
+    "href": "index_ideen.html#klassisch",
+    "title": "ByCS und die Digitalisierung",
+    "section": "Klassisch",
+    "text": "Klassisch\n\nÜberführen analoger Dokumente in digitale Dokumente (=Scannen)"
+  },
+  {
+    "objectID": "index_ideen.html#aktuell",
+    "href": "index_ideen.html#aktuell",
+    "title": "ByCS und die Digitalisierung",
+    "section": "Aktuell",
+    "text": "Aktuell\n\ndigitale Teilhabe am Alltagsleben\nBedienen digitaler Geräte\nNutzung digitaler Werkzeuge (z.B.Internet) zu\nInformationsbeschaffung und Bewertung\nMeinungsbildung\nAlltagsorganisation (Behördengänge, Ärztliche Diagnosen, Shopping, …)\nKommunikation (EMail, Videokonferenzen, WhatsApp, …)\nAmusement (Facebook, Instagramm, Snapchat, …)\nSpezielle Programme zur Beruflichen Nutzung (Office, Grafikprogramme, …)\n\nDAS ist alles Konsum, der meist kein Wissen über digitale Abläufe erfordert. Das ist kompetente Nutzung digitaler Werkzeuge aber keine digitale Kompetenz\nDas führt zu Problemen wie: * Versenden von Medien in unmöglicher Größe oder Qualität * Dokumente können nicht qualifiziert geöffnet werden - was bedeutet eine Dateiendung (Risiko rechnung.pdf.exe, ) * Workflows können nicht abgearbeitet werden, da Unterschiede zwischen Textformaten, Bildformaten, Videoformaten … nicht bekannt sind. Ist es egal, ob ich jpg oder png verwende? * Gefährdung der Sicherheit - Fitnesstracker, SocMed verraten Raketenstellungen, … * Skandal bei den Xerox-Kopierern"
+  },
+  {
+    "objectID": "index_ideen.html#wir-gehen-wir-dagegen-an",
+    "href": "index_ideen.html#wir-gehen-wir-dagegen-an",
+    "title": "ByCS und die Digitalisierung",
+    "section": "Wir gehen wir dagegen an?",
+    "text": "Wir gehen wir dagegen an?\nhttps://ec.europa.eu/eurostat/databrowser/view/tin00103/default/map?lang=en"
+  }
+]
