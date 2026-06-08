@@ -1,101 +1,17 @@
 [
   {
-    "objectID": "index.html#die-gliederung",
-    "href": "index.html#die-gliederung",
+    "objectID": "index.html#verlage",
+    "href": "index.html#verlage",
     "title": "LaTeX",
-    "section": "Die Gliederung",
-    "text": "Die Gliederung\nauch Inhaltsverzeichnis genannt"
+    "section": "Verlage",
+    "text": "Verlage\n\nZerlegen und analysieren docx-Dateien, odt-Dateien, …\nBauen den Text neu auf\nWenden Layout an"
   },
   {
-    "objectID": "index.html#beispiele",
-    "href": "index.html#beispiele",
+    "objectID": "index.html#wo-ist-latex-anstrengend",
+    "href": "index.html#wo-ist-latex-anstrengend",
     "title": "LaTeX",
-    "section": "Beispiele",
-    "text": "Beispiele"
-  },
-  {
-    "objectID": "index.html#zitieren-bedeutet",
-    "href": "index.html#zitieren-bedeutet",
-    "title": "LaTeX",
-    "section": "Zitieren bedeutet",
-    "text": "Zitieren bedeutet\n\nKenntlichmachung von Textstellen als fremde Inhalte\nAngabe der Quelle\n\n\nAufgabe des Deutschunterrichts / Fachunterrichts"
-  },
-  {
-    "objectID": "index.html#wohl-die-größte-herausforderung-denn",
-    "href": "index.html#wohl-die-größte-herausforderung-denn",
-    "title": "LaTeX",
-    "section": "Wohl die größte Herausforderung, denn",
-    "text": "Wohl die größte Herausforderung, denn\n\nes gibt DIN-Normen,\naber jeder Lehrer will es anders haben.\n\nOft schwer Automatismen anzupassen!"
-  },
-  {
-    "objectID": "index.html#varianten",
-    "href": "index.html#varianten",
-    "title": "LaTeX",
-    "section": "Varianten:",
-    "text": "Varianten:\n\nFußnoten\nEndnoten"
-  },
-  {
-    "objectID": "index.html#hässlich-wie-die-nacht",
-    "href": "index.html#hässlich-wie-die-nacht",
-    "title": "LaTeX",
-    "section": "Hässlich wie die Nacht!",
-    "text": "Hässlich wie die Nacht!"
-  },
-  {
-    "objectID": "index.html#fehleranfällig",
-    "href": "index.html#fehleranfällig",
-    "title": "LaTeX",
-    "section": "Fehleranfällig",
-    "text": "Fehleranfällig"
-  },
-  {
-    "objectID": "index.html#zerstört-das-layout",
-    "href": "index.html#zerstört-das-layout",
-    "title": "LaTeX",
-    "section": "Zerstört das Layout",
-    "text": "Zerstört das Layout"
-  },
-  {
-    "objectID": "index.html#kompliziert",
-    "href": "index.html#kompliziert",
-    "title": "LaTeX",
-    "section": "Kompliziert",
-    "text": "Kompliziert\n\n\nZitat „Huber“: Vollzitat\nZitat „Huber“: ebd.\nZitat „Maier“: Vollzitat\nZitat „Huber“: Kurzzitat"
-  },
-  {
-    "objectID": "index.html#typische-fehler-bei-bildern",
-    "href": "index.html#typische-fehler-bei-bildern",
-    "title": "LaTeX",
-    "section": "Typische Fehler bei Bildern",
-    "text": "Typische Fehler bei Bildern\n\n\nBilder kann jeder - meint jeder\nGrußkarten sind keine wissenschaftlichen Arbeiten\n\n\n\n\nFalsche Größe und falscher Ausschnitt\nFalsche Platzierung\nSchlechte Qualität"
-  },
-  {
-    "objectID": "index.html#typische-fehler-bei-der-schrift",
-    "href": "index.html#typische-fehler-bei-der-schrift",
-    "title": "LaTeX",
-    "section": "Typische Fehler bei der Schrift",
-    "text": "Typische Fehler bei der Schrift\nZu viele …\n\nSchriftarten\nSchriftgrößen\nSchriftschnitte (Fett, Kursiv, Schräg, Laufweite)\n\n\nVermeide fette Wörter im Text, sondern verwende kursive Wörter stattdessen (Lesepsychologie)."
-  },
-  {
-    "objectID": "index.html#warum-nicht-word",
-    "href": "index.html#warum-nicht-word",
-    "title": "LaTeX",
-    "section": "Warum nicht Word?",
-    "text": "Warum nicht Word?\n\nWas kann wer besser und entspricht es meiner Arbeitsweise?\n\n\nFalsche Frage!"
-  },
-  {
-    "objectID": "index.html#wo-hat-latex-stärken",
-    "href": "index.html#wo-hat-latex-stärken",
-    "title": "LaTeX",
-    "section": "Wo hat LaTeX Stärken?",
-    "text": "Wo hat LaTeX Stärken?\n\n\nDas Aussehen des Texts wird an anderere Stelle definiert und ist austauschbar.\nMasterdokumente erklären\nZitate gehen automatisch\nDas Killer-Feature - aber nur für Naturwissenschaftler interessant.\n\n\n\nTrennung von Inhalt und Aussehen\nDokumentenmanagement\nZitatverwaltung\nFormeln\nBilder / Zeichnungen\nOnline-Kooperation via Overleaf"
-  },
-  {
-    "objectID": "index.html#wo-hat-latex-schwächen",
-    "href": "index.html#wo-hat-latex-schwächen",
-    "title": "LaTeX",
-    "section": "Wo hat LaTeX Schwächen",
-    "text": "Wo hat LaTeX Schwächen\n\nSteile Lernkurve - Konzept kapieren\nNicht jeder Blödsinn möglich\nMan kann LaTeX-Fehler machen, nicht nur Rechtschreibfehler\nDie Rechtschreibprüfung, … ist in Word besser\nMan lernt nie aus …"
+    "section": "Wo ist LaTeX anstrengend?",
+    "text": "Wo ist LaTeX anstrengend?\n\nSteile Lernkurve - Konzept kapieren\nNicht jeder Blödsinn möglich\nMan kann LaTeX-Fehler machen, nicht nur Rechtschreibfehler\nDie Rechtschreibprüfung, … ist in Word besser\nMan lernt nie aus …"
   },
   {
     "objectID": "index.html#ursprünglich",
@@ -117,6 +33,34 @@
     "title": "LaTeX",
     "section": "Ablauf mit LaTeX",
     "text": "Ablauf mit LaTeX"
+  },
+  {
+    "objectID": "index.html#zitieren-ganz-einfach-überblick",
+    "href": "index.html#zitieren-ganz-einfach-überblick",
+    "title": "LaTeX",
+    "section": "Zitieren ganz einfach – Überblick",
+    "text": "Zitieren ganz einfach – Überblick\n\nBuch finden\nEintrag in die Datenbank erstellen\nQuellennachweis im Text erstellen\nDen Rest macht LaTeX"
+  },
+  {
+    "objectID": "index.html#zitieren-ganz-einfach-details",
+    "href": "index.html#zitieren-ganz-einfach-details",
+    "title": "LaTeX",
+    "section": "Zitieren ganz einfach – Details",
+    "text": "Zitieren ganz einfach – Details\nBuch finden\n\n\n\nJa\n\n\n\nFür das Buch Let’s Code Python von Hauke Fehr\nkannst du folgenden BibTeX-Eintrag verwenden\n(basierend auf der 4. Auflage von 2022)\n\n\n@book{fehr2022,   &lt;&lt;&lt;&lt; DAS ist der Zitierschlüssel\n  author    = {Hauke Fehr},\n  title     = {Let's Code Python},\n  subtitle  = {Programmieren lernen mit Python und vielen Projekten},\n  edition   = {4},\n  year      = {2022},\n  publisher = {Rheinwerk Verlag},\n  address   = {Bonn},\n  isbn      = {978-3-8362-6514-0}\n}"
+  },
+  {
+    "objectID": "index.html#im-dokument",
+    "href": "index.html#im-dokument",
+    "title": "LaTeX",
+    "section": "Im Dokument",
+    "text": "Im Dokument\nIm Unterricht verwenden wir das Buch von Hauke Fehr „Let's Code  \nPython“\\footcite{fehr2022}. Beachte besonders das Kapitel über \nGrundlagen\\footcite[vgl.][42-55]{fehr2022}\n\nDen gesamten Rest – Fußnote + Quellenverzeichnis macht LaTeX automatisch richtig nach Voreinstellung."
+  },
+  {
+    "objectID": "index.html#tabellen-und-diagramme",
+    "href": "index.html#tabellen-und-diagramme",
+    "title": "LaTeX",
+    "section": "Tabellen und Diagramme",
+    "text": "Tabellen und Diagramme\nDas für euch komplexestes Thema – auch hier KI hilfreich.\nThema für eigenen Workshop."
   },
   {
     "objectID": "about.html",
@@ -145,61 +89,5 @@
     "title": "ByCS und die Digitalisierung",
     "section": "Wir gehen wir dagegen an?",
     "text": "Wir gehen wir dagegen an?\nhttps://ec.europa.eu/eurostat/databrowser/view/tin00103/default/map?lang=en"
-  },
-  {
-    "objectID": "index.html#zitieren-ganz-einfach---überblick",
-    "href": "index.html#zitieren-ganz-einfach---überblick",
-    "title": "LaTeX",
-    "section": "Zitieren ganz einfach - Überblick",
-    "text": "Zitieren ganz einfach - Überblick\n\nBuch finden\nEintrag in die Datenbank erstellen\nQuellennachweis im Text erstellen\nDen Rest macht LaTeX"
-  },
-  {
-    "objectID": "index.html#zitieren-ganz-einfach-überblick",
-    "href": "index.html#zitieren-ganz-einfach-überblick",
-    "title": "LaTeX",
-    "section": "Zitieren ganz einfach – Überblick",
-    "text": "Zitieren ganz einfach – Überblick\n\nBuch finden\nEintrag in die Datenbank erstellen\nQuellennachweis im Text erstellen\nDen Rest macht LaTeX"
-  },
-  {
-    "objectID": "index.html#zitieren-ganz-einfach-details",
-    "href": "index.html#zitieren-ganz-einfach-details",
-    "title": "LaTeX",
-    "section": "Zitieren ganz einfach – Details",
-    "text": "Zitieren ganz einfach – Details\nBuch finden\n\n\n\nJa\n\n\n\nFür das Buch Let’s Code Python von Hauke Fehr\nkannst du folgenden BibTeX-Eintrag verwenden\n(basierend auf der 4. Auflage von 2022)\n\n\n@book{fehr2022,   &lt;&lt;&lt;&lt; DAS ist der Zitierschlüssel\n  author    = {Hauke Fehr},\n  title     = {Let's Code Python},\n  subtitle  = {Programmieren lernen mit Python und vielen Projekten},\n  edition   = {4},\n  year      = {2022},\n  publisher = {Rheinwerk Verlag},\n  address   = {Bonn},\n  isbn      = {978-3-8362-6514-0}\n}"
-  },
-  {
-    "objectID": "index.html#im-dokument",
-    "href": "index.html#im-dokument",
-    "title": "LaTeX",
-    "section": "Im Dokument",
-    "text": "Im Dokument\nIm Unterricht verwenden wir das Buch von Hauke Fehr „Let's Code  \nPython“\\footcite{fehr2022}. Beachte besonders das Kapitel über \nGrundlagen\\footcite[vgl.][42-55]{fehr2022}\n\nDen gesamten Rest – Fußnote + Quellenverzeichnis macht LaTeX automatisch richtig nach Voreinstellung."
-  },
-  {
-    "objectID": "index.html#wo-hat-ist-latex-anstrengend",
-    "href": "index.html#wo-hat-ist-latex-anstrengend",
-    "title": "LaTeX",
-    "section": "Wo hat ist LaTeX anstrengend?",
-    "text": "Wo hat ist LaTeX anstrengend?\n\nSteile Lernkurve - Konzept kapieren\nNicht jeder Blödsinn möglich\nMan kann LaTeX-Fehler machen, nicht nur Rechtschreibfehler\nDie Rechtschreibprüfung, … ist in Word besser\nMan lernt nie aus …"
-  },
-  {
-    "objectID": "index.html#tabellen-und-diagramme",
-    "href": "index.html#tabellen-und-diagramme",
-    "title": "LaTeX",
-    "section": "Tabellen und Diagramme",
-    "text": "Tabellen und Diagramme\nDas für euch komplexestes Thema – auch hier KI hilfreich.\nThema für eigenen Workshop."
-  },
-  {
-    "objectID": "index.html#verlage",
-    "href": "index.html#verlage",
-    "title": "LaTeX",
-    "section": "Verlage",
-    "text": "Verlage\n\nZerlegen und analysieren docx-Dateien, odt-Dateien, …\nBauen den Text neu auf\nWenden Layout an"
-  },
-  {
-    "objectID": "index.html#wo-ist-latex-anstrengend",
-    "href": "index.html#wo-ist-latex-anstrengend",
-    "title": "LaTeX",
-    "section": "Wo ist LaTeX anstrengend?",
-    "text": "Wo ist LaTeX anstrengend?\n\nSteile Lernkurve - Konzept kapieren\nNicht jeder Blödsinn möglich\nMan kann LaTeX-Fehler machen, nicht nur Rechtschreibfehler\nDie Rechtschreibprüfung, … ist in Word besser\nMan lernt nie aus …"
   }
 ]

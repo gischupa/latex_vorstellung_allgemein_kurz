@@ -98,6 +98,10 @@ Reiner Text + *Beschreibende Angaben*
 Ziel dieser Arbeit ...  das ist \emph{wichtig}!
 ```
 
+:::{.fragment}
+Keine Angst ... es gibt einen ByCS-Kurs und eine Vorlage für eine Seminararbeit
+:::
+
 ---
 
 Bilder werden nur verlinkt, nicht ins Dokument geschrieben:
@@ -180,4 +184,15 @@ automatisch richtig nach Voreinstellung.
 
 Das für euch komplexestes Thema -- auch hier KI hilfreich.  
 Thema für eigenen Workshop.
+
+# Woher bekomme ich LaTeX?
+
+* Lokale Installation (dauert relativ lange, ist ziemlich umfangreich)
+* Installation auch USB-Stick (etwas langsamer im Betrieb)
+* Online-Plattform Overleaf (kostenlos inzwischen fast unbenutzbar)
+* Ohne Garantien -- mein eigener Server
+
+# Wo erfahre ich mehr über LaTeX?
+
+![https://bycs.link/hoef_latexkurs](bilder/hoef_latexkurs.png)
 
