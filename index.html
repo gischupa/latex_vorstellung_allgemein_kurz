@@ -296,6 +296,9 @@ Umfeld erfolgt nicht mit Word.</p>
 <p>Reiner Text + <em>Beschreibende Angaben</em></p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode numberSource latex number-lines code-with-copy"><code class="sourceCode latex"><span id="cb1-1"><a></a><span class="kw">\chapter</span>{Einleitung}</span>
 <span id="cb1-2"><a></a>Ziel dieser Arbeit ...  das ist <span class="fu">\emph</span>{wichtig}!</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="fragment">
+<p>Keine Angst … es gibt einen ByCS-Kurs und eine Vorlage für eine Seminararbeit</p>
+</div>
 </section>
 <section class="slide level2">
 
@@ -359,9 +362,23 @@ kannst du folgenden BibTeX-Eintrag verwenden<br>
 <h2>Tabellen und Diagramme</h2>
 <p>Das für euch komplexestes Thema – auch hier KI hilfreich.<br>
 Thema für eigenen Workshop.</p>
-
-
 </section></section>
+<section id="woher-bekomme-ich-latex" class="title-slide slide level1 center">
+<h1>Woher bekomme ich LaTeX?</h1>
+<ul>
+<li class="fragment">Lokale Installation (dauert relativ lange, ist ziemlich umfangreich)</li>
+<li class="fragment">Installation auch USB-Stick (etwas langsamer im Betrieb)</li>
+<li class="fragment">Online-Plattform Overleaf (kostenlos inzwischen fast unbenutzbar)</li>
+<li class="fragment">Ohne Garantien – mein eigener Server</li>
+</ul>
+</section>
+
+<section id="wo-erfahre-ich-mehr-über-latex" class="title-slide slide level1 center">
+<h1>Wo erfahre ich mehr über LaTeX?</h1>
+
+
+
+<img data-src="bilder/hoef_latexkurs.png" class="r-stretch quarto-figure-center"><p class="caption">https://bycs.link/hoef_latexkurs</p></section>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">
 <p><img src="images/logo.png" class="slide-logo"></p>
@@ -667,7 +684,7 @@ Thema für eigenen Workshop.</p>
       }
         var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
         var mailtoRegex = new RegExp(/^mailto:/);
-          var filterRegex = new RegExp('/' + window.location.host + '/');
+          var filterRegex = new RegExp("https:\/\/gischupa\.github\.io\/latex_vorstellung_allgemein_kurz\/");
         var isInternal = (href) => {
             return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
         }
