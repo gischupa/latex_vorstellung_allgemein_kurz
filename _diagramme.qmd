@@ -1,0 +1,27 @@
+# Diagramme und Tabellen
+
+::: {.notes}
+Ist ein Screenshot eines Diagramms ein Bild?  
+Gute Diagramm / Tabellen sind ein eigenes Thema
+:::
+
+Thema extrem fachspezifisch.  
+Generell: Wenn möglich selbst erstellen
+
+---
+
+Schulbuch und Universität
+
+![](bilder/kritik/pic_duden_small.jpg){.absolute top="150" left="150"}
+![](bilder/kritik/pic_gertsen_small.jpg){.absolute top="150" left="600"}
+
+---
+
+### Varianten  
+
+![](bilder/kritik/tabellen_varianten.png){.absolute top="250" left="150"}
+
+
+Vertikale Linien sind unüblich
+
+---

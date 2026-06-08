@@ -1,0 +1,7 @@
+# Dokumente managen
+
+* Regelmäßige Sicherungen -- nicht auf USB-Stick!!!
+* Cloud ist ok, eMail auch (Dokumentengrößen)
+* Vernünftige Namen (sem_20_06_24_v1)
+* Besser sind Versionskontroll-Systeme (Git)
+

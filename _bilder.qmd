@@ -1,0 +1,71 @@
+## Typische Fehler bei Bildern
+::: {.notes}
+* Bilder kann jeder - meint jeder
+* Grußkarten sind keine wissenschaftlichen Arbeiten
+* 
+:::
+
+* Falsche Größe und falscher Ausschnitt
+* Falsche Platzierung
+* Schlechte Qualität
+
+---
+
+### Größe und Ausschnitt
+
+Bilder **vor** dem Einfügen in Endform bringen (Dokumentengröße)   
+2MB vs. 393KB
+
+![](bilder/kritik/schlange.jpg){.absolute top="150" left="400" width="300px"}
+ 
+
+![](bilder/kritik/schlange0.jpg){.absolute top="150" left="800" width="300px"}
+
+---
+
+Nur den wirklich relevanten Ausschnitt verwenden
+
+![](bilder/kritik/schlange2.png){.absolute top="100" left="100" width="500px"}
+
+.  .  .
+
+![](bilder/kritik/schlange1.png){.absolute top="100" left="100" width="500px" height="421px"}
+
+---
+
+### Position
+
+![](bilder/kritik/platz1.png){.absolute top="100" left="100"}
+
+
+
+![](bilder/kritik/platz2.png){.absolute top="100" left="600"}
+
+
+
+---
+
+### Qualität ist wichtig!
+
+![](bilder/kritik/klima.png){.absolute top="100" left="100"}
+
+---
+
+### Qualität ist wichtig!
+
+![](bilder/kritik/tabelle.png){.absolute top="100" left="100" width="500px"}
+
+---
+
+### Qualität ist wichtig!
+
+![](bilder/kritik/gobi.png){.absolute top="100" left="100"}
+
+---
+
+### Weitere Tipps
+
+* Arbeite nie mit dem Original!
+* Auch Bilder sind Quellen
+* Abbildungsverzeichnis $\neq$ Quellenverzeichnis
+* Beachte die Lizenz des Bildes! 

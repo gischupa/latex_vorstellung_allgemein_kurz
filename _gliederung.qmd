@@ -1,0 +1,88 @@
+
+
+---
+
+::: {.notes}
+* Unterstrichen 
+* Woher weiß man, mit was geschrieben wurde
+* Word muss keine schlechten Ergebnisse liefern! Kann aber!
+* Keine Punkte bei Kapiteln und Verzeichnissen
+:::
+
+![](bilder/kritik/toc1.png){.absolute top="100" left="100"}
+
+.  .  .
+
+![](bilder/kritik/toc2.png){.absolute top="100" left="100"}
+
+.  .  .
+
+![](bilder/kritik/toc1.png){.absolute top="100" left="100"}
+
+.  .  .
+
+![](bilder/kritik/toc3.png){.absolute top="100" left="100"}
+
+.  .  .
+
+![](bilder/kritik/toc1.png){.absolute top="100" left="100"}
+
+.  .  .
+
+![](bilder/kritik/toc4.png){.absolute top="100" left="100"}
+
+.  .  .
+
+![](bilder/kritik/toc1.png){.absolute top="100" left="100"}
+
+.  .  .
+
+![](bilder/kritik/toc5.png){.absolute top="100" left="100"}
+
+.  .  .
+
+![](bilder/kritik/toc1.png){.absolute top="100" left="100"}
+
+##
+
+![](bilder/kritik/toc6.png){.absolute top="100" left="100"}
+
+---
+
+## Beispiele
+
+![](bilder/kritik/tic1.png){.absolute top="100" left="100"}
+
+---
+
+![](bilder/kritik/tic2.png){.absolute top="100" left="100"}
+
+---
+
+![](bilder/kritik/tic3.png){.absolute top="100" left="100"}
+
+---
+
+![](bilder/kritik/tic4.png){.absolute top="100" left="100"}
+
+---
+
+![](bilder/kritik/tic5.png){.absolute top="100" left="100"}
+
+---
+
+![](bilder/kritik/tic6.png){.absolute top="100" left="100"}
+
+---
+
+![](bilder/kritik/tic7.png){.absolute top="100" left="100"}
+
+---
+
+![](bilder/kritik/tic8.png){.absolute top="100" left="100"}
+
+---
+
+![](bilder/kritik/tic9.png){.absolute top="100" left="100"}
+
+---

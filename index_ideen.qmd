@@ -1,0 +1,37 @@
+---
+title: "ByCS und die Digitalisierung"
+author: ""
+format: revealjs
+---
+
+# Was ist Digitalisierung?
+## Klassisch
+* Überführen analoger Dokumente in digitale Dokumente (=Scannen)
+
+## Aktuell
+* digitale Teilhabe am Alltagsleben
+- Bedienen digitaler Geräte
+- Nutzung digitaler Werkzeuge (z.B.Internet) zu 
+ + Informationsbeschaffung und Bewertung
+ + Meinungsbildung
+ + Alltagsorganisation (Behördengänge, Ärztliche Diagnosen, Shopping, ...)
+ + Kommunikation (EMail, Videokonferenzen, WhatsApp, ...)
+ + Amusement (Facebook, Instagramm, Snapchat, ...)
+ + Spezielle Programme zur Beruflichen Nutzung (Office, Grafikprogramme, ...)
+
+ DAS ist alles Konsum, der meist kein Wissen über digitale Abläufe erfordert.
+ Das ist *kompetente Nutzung digitaler Werkzeuge* aber keine *digitale Kompetenz*
+
+Das führt zu Problemen wie:
+* Versenden von Medien in unmöglicher Größe oder Qualität
+* Dokumente können nicht qualifiziert geöffnet werden - was bedeutet eine Dateiendung
+(Risiko rechnung.pdf.exe, )
+* Workflows können nicht abgearbeitet werden, da Unterschiede zwischen Textformaten, Bildformaten, Videoformaten ... nicht bekannt sind. Ist es egal, ob ich jpg oder png verwende? 
+* Gefährdung der Sicherheit - Fitnesstracker, SocMed verraten Raketenstellungen, ...
+* Skandal bei den Xerox-Kopierern
+
+
+## Wir gehen wir dagegen an?
+
+https://ec.europa.eu/eurostat/databrowser/view/tin00103/default/map?lang=en
+

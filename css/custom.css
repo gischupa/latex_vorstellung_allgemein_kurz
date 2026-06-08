@@ -1,0 +1,14 @@
+/* custom.css */
+.small-table {
+    font-size: 0.6em; /* Kleinere Schriftgröße für die gesamte Tabelle */
+}
+
+.small-table th,
+.small-table td {
+    font-size: 0.8em; /* Kleinere Schriftgröße für Tabellenzellen */
+}
+
+.centered-content {
+    text-align: center;
+}
+

@@ -1,0 +1,33 @@
+﻿\begin{tikzpicture}
+\draw[rounded corners=2, black](-1,-2.5) rectangle ++(14,8);
+
+\draw(3.5,2.5) node [scale = 2] {Word};
+\draw[rounded corners=2](-0.7,-0.5) rectangle ++(8.4,5);
+
+\draw[rounded corners=2](0,0) rectangle ++(2,3) node[midway]{Manuskript};
+
+\draw[rounded corners=2](5,0) rectangle ++(2,3) node[midway]{Setzer};
+
+\draw[rounded corners=2](10,0) rectangle ++(2,3) node[midway]{Buch};
+
+\draw(3.5,1.5) node[scale=3]{$+$};
+
+\draw(8.5,1.5) node[scale=3]{$\Rightarrow$};
+
+
+%\draw[>=stealth, ->, line width=0.8mm, rounded corners=2](1,3.5) -- ++(0,1) --++ (10,0) -- ++ (0,-1);
+
+%\draw(6,5) node[]{Vorschau};
+
+%\draw[>=stealth, <-, line width=0.8mm, rounded corners=2](1,-0.5) -- ++(0,-1) --++ (10,0) -- ++ (0,1);
+
+%\draw(6,-2) node[]{weiter arbeiten};
+
+
+
+\draw(1,3.2) node [] { };
+\draw(3.5,3.6) node [scale=1.7] {Amateur Layout};
+
+
+\draw(11,3.2) node [] {????};
+\end{tikzpicture}

@@ -1,0 +1,29 @@
+﻿\begin{tikzpicture}
+
+%\draw[white](3.5,5) node [scale = 3] {Word};
+\draw[rounded corners=2, black](-1,-2.5) rectangle ++(14,8);
+
+\draw[rounded corners=2](0,0) rectangle ++(2,3) node[midway]{Autor};
+
+\draw[rounded corners=2](5,0) rectangle ++(2,3) node[midway]{\LaTeX};
+
+\draw[rounded corners=2](10,0) rectangle ++(2,3) node[midway]{\parbox{2cm}{ \center PDF \\ Betrachter}};
+
+\draw(3.5,1.5) node[scale=3]{$\Rightarrow$};
+
+\draw(8.5,1.5) node[scale=3]{$\Rightarrow$};
+
+
+\draw[>=stealth, ->, line width=0.8mm, rounded corners=2](1,3.7) -- ++(0,1) --++ (10,0) -- ++ (0,-1);
+
+\draw(6,5) node[]{Compilieren};
+
+\draw[>=stealth, <-, line width=0.8mm, rounded corners=2](1,-0.5) -- ++(0,-1) --++ (10,0) -- ++ (0,1);
+
+\draw(6,-2) node[]{weiter arbeiten};
+
+\draw(1,3.4) node [] {tex-Datei};
+\draw(6,3.4) node [] {Zwischenformate};
+\draw(11,3.4) node [] {PDF};
+
+\end{tikzpicture}
